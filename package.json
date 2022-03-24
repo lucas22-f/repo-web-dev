@@ -1,0 +1,26 @@
+{
+  "name": "clase03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas22-f/repo-web-dev.git"
+  },
+  "author": "lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas22-f/repo-web-dev/issues"
+  },
+  "homepage": "https://github.com/lucas22-f/repo-web-dev#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
